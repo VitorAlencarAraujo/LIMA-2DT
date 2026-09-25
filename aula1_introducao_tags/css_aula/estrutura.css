@@ -1,0 +1,32 @@
+/* seletor {
+    propriedade: valor;
+} 
+ 
+seletor {
+    propriedade: valor;
+}
+
+seletor {
+    propriedade: valor; 
+}
+
+seletor {
+    propriedade: valor; 
+}
+
+seletor {
+    propriedadd: valor;
+}
+
+seletor {
+    propriedade: valor; 
+} */
+
+h1{
+    font-family: fantasy;
+    color: blue;
+}
+
+.alvarez {
+    font-family: 'Times New Roman', Times, serif;
+}
