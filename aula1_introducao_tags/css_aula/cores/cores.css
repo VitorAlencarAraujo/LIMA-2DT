@@ -1,0 +1,19 @@
+.cor1{
+    /* Nome da cor */
+    color: crimson;
+}
+
+    /* HEX */
+.cor2{
+    color: #dc143c;
+}
+
+.cor3 {
+    /* RGB */
+    color: rgb(0, 0, 0);
+}
+
+.cor4{
+    /* RGBA */
+    color: rgba(154, 55, 55, 0.689);
+}
